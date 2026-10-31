@@ -25,7 +25,7 @@ const ProtectedRoute: React.FC<{ children: React.ReactElement }> = ({
     return (
       <div className="min-h-screen bg-[#090b10] flex items-center justify-center">
         <div className="font-display font-bold text-sm uppercase tracking-widest text-[#00f0ff] animate-pulse">
-          Loading Street Rush...
+          Loading Zain Super Race...
         </div>
       </div>
     );
@@ -138,3 +138,4 @@ export const App: React.FC = () => {
 };
 
 export default App;
+

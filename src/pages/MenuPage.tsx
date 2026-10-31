@@ -74,7 +74,7 @@ export const MenuPage: React.FC = () => {
           </div>
           <div>
             <span className="font-display font-black text-xl tracking-wider uppercase italic text-white">
-              STREET <span className="text-[#ff3366]">RUSH</span>
+              ZAIN <span className="text-[#ff3366]">SUPER RACE</span>
             </span>
             <div className="text-[11px] text-slate-400">
               Driver:{' '}
@@ -268,8 +268,9 @@ export const MenuPage: React.FC = () => {
       </main>
 
       <footer className="max-w-5xl w-full mx-auto text-center text-xs text-slate-500 z-10">
-        STREET RUSH v1.0 · Keyboard (WASD / Arrows / Space) & Mobile Touch Controls
+        ZAIN SUPER RACE v1.0 · Keyboard (WASD / Arrows / Space) & Mobile Touch Controls
       </footer>
     </div>
   );
 };
+

@@ -85,7 +85,7 @@ export const LoginPage: React.FC = () => {
             Global Arcade Street Racing
           </div>
           <h1 className="font-display font-black text-4xl sm:text-5xl tracking-wider uppercase italic text-white drop-shadow-[0_0_24px_rgba(255,51,102,0.45)]">
-            STREET <span className="text-[#ff3366]">RUSH</span>
+            ZAIN <span className="text-[#ff3366]">SUPER RACE</span>
           </h1>
           <p className="text-slate-400 text-sm mt-2">
             5 Racers · 5 World Cities · Server-Verified Global Rankings
@@ -233,3 +233,4 @@ export const LoginPage: React.FC = () => {
     </div>
   );
 };
+
